@@ -1,0 +1,21 @@
+public class luasselimutTabung {public static void main (String[] args) {
+    String R= ("nilai R= x");
+    String T= ("nilai T= x");
+    String L= (" hitung dengan rumus L = 2*3,14*R*T ");
+    String hasil =  ("hasil = x");
+    System.out.println(R);
+    System.out.println(T);
+    System.out.println(L);
+    System.out.println(hasil);
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+    
+}
