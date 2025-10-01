@@ -1,0 +1,19 @@
+public class LuasSegitigapp {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        String Luas = "1/2";//nilai luas
+        String alas = ("a");
+        String tinggi = ("t");
+        String nilai = ("Luas *a*t");//hitung nilai dengan rumus
+        String hasil = ("hasil=x");// nilai hasil dari rumus
+        System.out.println(Luas);
+        System.out.println(alas);
+        System.out.println(tinggi);
+        System.out.println(nilai);
+        System.out.println(hasil);
+    }
+    
+}
