@@ -1,0 +1,14 @@
+public class KelilingLingkaran { public static void main (String[] args) {
+    int r = 2;
+   double phi = 3.14;
+   double keliling= 2 *phi*r;
+   System.out.println("keliling lingkaran" + keliling);
+   
+           
+           
+           
+    
+    
+}
+    
+}
