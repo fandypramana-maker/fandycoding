@@ -1,0 +1,11 @@
+public class luasLingkaran {public static void main(String[] args) {
+    String L = ("luas");
+    String phi = ("22/7");//nilai phi 22/7
+    String rumus = ("L=alas*22/7");//hitung rumus dengan L=alas*22/7
+    System.out.println(L);
+    System.out.println(phi);
+    System.out.println(rumus);
+    
+}
+    
+}
