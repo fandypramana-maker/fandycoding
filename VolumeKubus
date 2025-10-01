@@ -1,0 +1,13 @@
+public class VolumeKubus { public static void main (String[] args) {
+    String S = ("nilai = x");//input
+    String V = ("sisi*sisi*sisi");//proses
+    String hasil = ("hasil= x");//output
+    System.out.println (S);
+    System.out.println (V);
+    System.out.println (hasil);
+    
+    
+    
+}
+    
+}
