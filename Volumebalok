@@ -1,0 +1,16 @@
+public class VolumeBalok { public static void main (String[] args){
+    String P = ("nilai P =x");//input P
+    String L = ("nilai L = x");// input L
+    String T = ("nilai T = x");// input T
+    String V = ("P*L*T= X");// Proses V
+    String hasil = ("= x");// Output V
+    System.out.println(P);
+    System.out.println(L);
+    System.out.println(T);
+    System.out.println(V);
+    System.out.println(hasil);
+    
+    
+}
+    
+}
