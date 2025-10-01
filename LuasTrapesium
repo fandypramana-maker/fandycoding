@@ -1,0 +1,18 @@
+public class luasTrapesium {public static void main(String[] args) {
+    String a = ("nilai a =x");
+    String b = ("nilai b = x");
+    String t = ("nilai t = x");
+    String rumus = ("menghitung rumus dengan= 0,5*<a+b>*t");//mencari nilailuas
+    String Luas = ("x");
+    System.out.println(a);
+    System.out.println(b);
+    System.out.println(t);
+    System.out.println(rumus);
+    System.out.println(Luas);
+    
+    
+    
+    
+}
+    
+}
