@@ -1,0 +1,14 @@
+public class Luasjajargenjang { public static void main (String[] args) {
+    String a = ("nilai a= x");//input nilai a
+    String t = ("nilai t= x");//input nilai t
+    String L = ("alas*tnggi");//proses nilai a dan t
+    String hasil=("hasil=x");//output a*t
+    System.out.println(a);
+    System.out.println(t);
+    System.out.println(L);
+    System.out.println(hasil);
+    
+    
+}
+    
+}
