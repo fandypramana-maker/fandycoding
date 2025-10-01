@@ -1,0 +1,10 @@
+public class luasPersegi {public static void main(String[] args) {
+    String luas = ("Luas=sisi*sisi");//rumus luas
+    String keliling = ("keliling=4xsisi");//rumus keliling
+    String luasKeliling = ("Luas*Keliling");// hitung rumus luas dan keliling
+    System.out.println(luas);
+    System.out.println(keliling);
+    System.out.println(luasKeliling);
+    
+}
+}
